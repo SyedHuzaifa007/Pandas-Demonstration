@@ -1,2 +1,2 @@
 # Pandas-Demonstration
-This repository is made for practicing pandas library.
+This repository contains practice codes for Pandas (Data Science) library of Python.
